@@ -392,14 +392,14 @@ V,2011,4,2011.291667,Meandrinidae,Meandrina,meandrites,Meandrina meandrites,Mean
 9,2022,3,2022.208333,Faviidae,Pseudodiploria,strigosa,Pseudodiploria strigosa,Faviidae - Pseudodiploria strigosa,1
 9,2022,3,2022.208333,Agariciidae,Agaricia,sp./agaricites,Agaricia sp./agaricites,Agariciidae - Agaricia sp./agaricites,6
 9,2022,3,2022.208333,Poritidae,Porites,porites/astreoides,Porites porites/astreoides,Poritidae - Porites porites/astreoides,4
-9,2022,3,2022.208333, Siderastreidae,Siderastrea,siderea/radians,Siderastrea siderea/radians, Siderastreidae - Siderastrea siderea/radians,1
+9,2022,3,2022.208333,Siderastreidae,Siderastrea,siderea/radians,Siderastrea siderea/radians,Siderastreidae - Siderastrea siderea/radians,1
 32,2022,3,2022.208333,Montastraeidae,Montastraea,cavernosa,Montastraea cavernosa,Montastraeidae - Montastraea cavernosa,3
 32,2022,3,2022.208333,Faviidae,Diploria,labyrinthiformis,Diploria labyrinthiformis,Faviidae - Diploria labyrinthiformis,2
 32,2022,3,2022.208333,Faviidae,Pseudodiploria,strigosa,Pseudodiploria strigosa,Faviidae - Pseudodiploria strigosa,1
 32,2022,3,2022.208333,Agariciidae,Agaricia,sp./agaricites,Agaricia sp./agaricites,Agariciidae - Agaricia sp./agaricites,4
 32,2022,3,2022.208333,Poritidae,Porites,porites/astreoides,Porites porites/astreoides,Poritidae - Porites porites/astreoides,1
 32,2022,3,2022.208333,Meandrinidae,Dichocoenia,stokesi,Dichocoenia stokesi,Meandrinidae - Dichocoenia stokesi,3
-32,2022,3,2022.208333, Siderastreidae,Siderastrea,siderea/radians,Siderastrea siderea/radians, Siderastreidae - Siderastrea siderea/radians,1
+32,2022,3,2022.208333,Siderastreidae,Siderastrea,siderea/radians,Siderastrea siderea/radians,Siderastreidae - Siderastrea siderea/radians,1
 36,2022,3,2022.208333,Agariciidae,Agaricia,sp./agaricites,Agaricia sp./agaricites,Agariciidae - Agaricia sp./agaricites,3
 36,2022,3,2022.208333,Meandrinidae,Dichocoenia,stokesi,Dichocoenia stokesi,Meandrinidae - Dichocoenia stokesi,7
 40,2022,3,2022.208333,Montastraeidae,Montastraea,cavernosa,Montastraea cavernosa,Montastraeidae - Montastraea cavernosa,2
@@ -417,7 +417,7 @@ V,2011,4,2011.291667,Meandrinidae,Meandrina,meandrites,Meandrina meandrites,Mean
 44,2022,3,2022.208333,Faviidae,Pseudodiploria,strigosa,Pseudodiploria strigosa,Faviidae - Pseudodiploria strigosa,2
 44,2022,3,2022.208333,Agariciidae,Agaricia,sp./agaricites,Agaricia sp./agaricites,Agariciidae - Agaricia sp./agaricites,33
 44,2022,3,2022.208333,Poritidae,Porites,porites/astreoides,Porites porites/astreoides,Poritidae - Porites porites/astreoides,2
-44,2022,3,2022.208333, Siderastreidae,Siderastrea,siderea/radians,Siderastrea siderea/radians, Siderastreidae - Siderastrea siderea/radians,1
+44,2022,3,2022.208333,Siderastreidae,Siderastrea,siderea/radians,Siderastrea siderea/radians,Siderastreidae - Siderastrea siderea/radians,1
 45,2022,3,2022.208333,Agariciidae,Agaricia,sp./agaricites,Agaricia sp./agaricites,Agariciidae - Agaricia sp./agaricites,27
 45,2022,3,2022.208333,Poritidae,Porites,porites/astreoides,Porites porites/astreoides,Poritidae - Porites porites/astreoides,5
 45,2022,3,2022.208333,Meandrinidae,Dichocoenia,stokesi,Dichocoenia stokesi,Meandrinidae - Dichocoenia stokesi,13
@@ -442,7 +442,7 @@ V,2011,4,2011.291667,Meandrinidae,Meandrina,meandrites,Meandrina meandrites,Mean
 60,2022,3,2022.208333,Agariciidae,Agaricia,sp./agaricites,Agaricia sp./agaricites,Agariciidae - Agaricia sp./agaricites,8
 60,2022,3,2022.208333,Poritidae,Porites,porites/astreoides,Porites porites/astreoides,Poritidae - Porites porites/astreoides,1
 60,2022,3,2022.208333,Meandrinidae,Dichocoenia,stokesi,Dichocoenia stokesi,Meandrinidae - Dichocoenia stokesi,4
-60,2022,3,2022.208333, Siderastreidae,Siderastrea,siderea/radians,Siderastrea siderea/radians, Siderastreidae - Siderastrea siderea/radians,12
+60,2022,3,2022.208333,Siderastreidae,Siderastrea,siderea/radians,Siderastrea siderea/radians,Siderastreidae - Siderastrea siderea/radians,12
 A,2022,3,2022.208333, ,Recruits,,Recruits ,  - Recruits ,3
 A,2022,3,2022.208333,Faviidae,Diploria,labyrinthiformis,Diploria labyrinthiformis,Faviidae - Diploria labyrinthiformis,14
 A,2022,3,2022.208333,Faviidae,Pseudodiploria,strigosa,Pseudodiploria strigosa,Faviidae - Pseudodiploria strigosa,3
@@ -452,7 +452,7 @@ A,2022,3,2022.208333,Agariciidae,Agaricia,sp./agaricites,Agaricia sp./agaricites
 A,2022,3,2022.208333,Poritidae,Porites,porites/astreoides,Porites porites/astreoides,Poritidae - Porites porites/astreoides,9
 A,2022,3,2022.208333,Meandrinidae,Meandrina,meandrites,Meandrina meandrites,Meandrinidae - Meandrina meandrites,1
 A,2022,3,2022.208333,Meandrinidae,Dichocoenia,stokesi,Dichocoenia stokesi,Meandrinidae - Dichocoenia stokesi,15
-A,2022,3,2022.208333, Siderastreidae,Siderastrea,siderea/radians,Siderastrea siderea/radians, Siderastreidae - Siderastrea siderea/radians,5
+A,2022,3,2022.208333,Siderastreidae,Siderastrea,siderea/radians,Siderastrea siderea/radians,Siderastreidae - Siderastrea siderea/radians,5
 G,2022,3,2022.208333,Faviidae,Diploria,labyrinthiformis,Diploria labyrinthiformis,Faviidae - Diploria labyrinthiformis,2
 G,2022,3,2022.208333,Agariciidae,Agaricia,sp./agaricites,Agaricia sp./agaricites,Agariciidae - Agaricia sp./agaricites,23
 G,2022,3,2022.208333,Poritidae,Porites,porites/astreoides,Porites porites/astreoides,Poritidae - Porites porites/astreoides,1
@@ -462,4 +462,4 @@ I,2022,3,2022.208333,Agariciidae,Agaricia,sp./agaricites,Agaricia sp./agaricites
 I,2022,3,2022.208333,Meandrinidae,Dichocoenia,stokesi,Dichocoenia stokesi,Meandrinidae - Dichocoenia stokesi,18
 V,2022,3,2022.208333,Agariciidae,Agaricia,sp./agaricites,Agaricia sp./agaricites,Agariciidae - Agaricia sp./agaricites,2
 V,2022,3,2022.208333,Meandrinidae,Meandrina,meandrites,Meandrina meandrites,Meandrinidae - Meandrina meandrites,1
-V,2022,3,2022.208333, Siderastreidae,Siderastrea,siderea/radians,Siderastrea siderea/radians, Siderastreidae - Siderastrea siderea/radians,2
+V,2022,3,2022.208333,Siderastreidae,Siderastrea,siderea/radians,Siderastrea siderea/radians,Siderastreidae - Siderastrea siderea/radians,2
