@@ -1,4 +1,4 @@
-﻿month,year,Date_Full,Site_ID,Temp_F,Depth_ft,pH_limtmus,ph_colorimetric,Salinity,SpC,Turbidity,F_undiluted,Cl_diluted,Cl_undiluted,Nitrate_diluted,Nitrate_undiluted,Br_diluted,Br_undiluted,Nitrate_diluted,Nitrate_undiluted,Phosphate_diluted,Phosphate_undiluted,Sulfate_diluted,Sulfate_undiluted,Ca_diluted,Ca_undiluted,Mg_diluted,Mg_undiluted,Na_diluted,Na_undiluted,K_diluted,K_undiluted,
+﻿month,year,Date_Full,Site_ID,Temp_F,Depth_ft,pH_litmus,pH_colorimetric,Salinity,SpC,Turbidity,F_undiluted,Cl_diluted,Cl_undiluted,Nitrate_diluted,Nitrate_undiluted,Br_diluted,Br_undiluted,Nitrate_diluted,Nitrate_undiluted,Phosphate_diluted,Phosphate_undiluted,Sulfate_diluted,Sulfate_undiluted,Ca_diluted,Ca_undiluted,Mg_diluted,Mg_undiluted,Na_diluted,Na_undiluted,K_diluted,K_undiluted,
 11.00,2007.00,2007.875,9,84,23,8.0,8.0_8.5,,,0,,169.14,33828,,,0.304,60.8,0.3118,62.36,0.0015,0.30,10.994,2198.8,0.299,598,0.855,1710,0.060,12000,0.254,508,
 11.00,2007.00,2007.875,10,84,24,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11.00,2007.00,2007.875,11,84,42,,,,,,,,,,,,,,,,,,,,,,,,,,,
